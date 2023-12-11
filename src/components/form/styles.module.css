@@ -1,0 +1,24 @@
+.file_input {
+  display: none;
+}
+
+.myBtn {
+  width: 274px;
+  height: 48px;
+  border-radius: 5px;
+  background: #6346b4;
+  margin-top: 75px;
+  color: white;
+  margin-left: 274px;
+}
+
+.text {
+  color: #000;
+  text-align: center;
+  font-family: Noto Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 99px;
+}

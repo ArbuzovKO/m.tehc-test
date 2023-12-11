@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #cbcbcb;
+}
+
+.Form {
+  width: 823px;
+  height: 367px;
+  margin-top: 328px;
+  margin-bottom: 329px;
+  margin-left: 309px;
+  margin-right: 308px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 2px 4px 9.9px 0px rgba(0, 0, 0, 0.25);
+}

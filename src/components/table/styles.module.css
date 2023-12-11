@@ -1,0 +1,27 @@
+.file_input {
+  display: none;
+}
+
+.myBtn1 {
+  width: 164px;
+  height: 36px;
+  border-radius: 5px;
+  background: #6346B4;
+  margin-left: 1220px;
+  color: #FFF;
+}
+
+.table_root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.table {
+  border-radius: 10px 0px 0px 0px;
+  background: #FFF;
+  width: 1407px;
+  height: 951px;
+  flex-shrink: 0;
+}
